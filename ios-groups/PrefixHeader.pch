@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  ios-groups
+//
+//  Created by 董旭 on 17/2/14.
+//  Copyright © 2016 董旭. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <AdSupport/AdSupport.h>
+#import <CoreData/CoreData.h>
+
+#import "ReactiveCocoa.h"
+
+#import "JYMacros.h"
+#import "JYCategory.h"
+
+#endif

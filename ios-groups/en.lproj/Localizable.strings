@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  ios-groups
+
+  Created by 董旭 on 17/2/14.
+  Copyright © 2017年 董旭. All rights reserved.
+*/
+
+//live
+module_live_title = "视频";
+
+
+
+
+//ucenter
+module_ucenter_title = "个人";
+
+
+
+
+//home
+home_tab_live_title = "直播";
+home_tab_ucenter_title = "用户";
+
+
