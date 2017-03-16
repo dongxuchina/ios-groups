@@ -42,4 +42,8 @@
 #define JYLocalizedString(k) NSLocalizedString(k, nil)
 
 
-#endif /* JYMUtilsMacros_h */
+#define JYFont(SIZE) [UIFont systemFontOfSize:SIZE]
+#define JYFontBold(SIZE) [UIFont boldSystemFontOfSize:SIZE]
+
+
+#endif /* JYUtilsMacros_h */

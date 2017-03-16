@@ -11,23 +11,24 @@
 @implementation UIColor (JYResources)
 
 + (UIColor *)jy_bgNavBarColor{
-    return [UIColor colorWithKey:@"bg_navigationbar_color"];
+    return [UIColor colorWithHexString:@"#0a0a0f"];
 }
 
 + (UIColor *)jy_lineColor{
-    return [UIColor colorWithKey:@""];
+    return [UIColor colorWithHexString:@""];
 }
 
 + (UIColor *)jy_bgContentColor{
-    return [UIColor colorWithKey:@"bg_content_color"];
+    return [UIColor colorWithHexString:@"#F3F3F7"];
 }
 
 + (UIColor *)jy_primaryColor{
-    return [UIColor colorWithKey:@"primary_color"];
+    return [UIColor colorWithHexString:@"#1FB922"];
 }
 
-
-
++ (UIColor *)jy_secondaryColor{
+    return [UIColor colorWithHexString:@"#319B39"];
+}
 
 
 + (UIColor *)colorWithKey:(NSString *)key

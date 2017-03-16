@@ -15,8 +15,20 @@
 #import <CoreData/CoreData.h>
 
 #import "ReactiveCocoa.h"
+#import "Masonry/masonry.h"
+#import "MJExtension.h"
+#import "TalkingData.h"
+#import "AFNetworking.h"
+#import "UIImageView+HighlightedWebCache.h"
+#import "UIImageView+WebCache.h"
+#import "UIButton+WebCache.h"
+#import "WXApi.h"
+
 
 #import "JYMacros.h"
 #import "JYCategory.h"
+#import "JYUtil.h"
+
+
 
 #endif

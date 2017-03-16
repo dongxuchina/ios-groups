@@ -7,19 +7,19 @@
 */
 
 //live
-module_live_title = "视频";
+module_liveroom_title = "直播间";
 
 
 
 
 //ucenter
-module_ucenter_title = "个人";
+module_ucenter_title = "我的";
 
 
 
 
 //home
-home_tab_live_title = "直播";
-home_tab_ucenter_title = "用户";
+home_tab_liveroom_title = "直播间";
+home_tab_ucenter_title = "我的";
 
 
